@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\Support\Environment;
+namespace Uuu9\Support\Environment;
 
 class Compile
 {
