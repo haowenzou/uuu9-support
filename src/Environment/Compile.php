@@ -1,6 +1,6 @@
 <?php
 
-namespace Vpgame\Support\Environment;
+namespace U9\Support\Environment;
 
 class Compile
 {

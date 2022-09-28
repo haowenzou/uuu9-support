@@ -39,7 +39,7 @@ $appConfig = [
     ],
 ];
 
-$compile = new Vpgame\Support\Environment\Compile($envTpFilePath, $envFilePath);
+$compile = new U9\Support\Environment\Compile($envTpFilePath, $envFilePath);
 
 $config = $compile->getZookeeperConfig($zkConfigFilePath);
 

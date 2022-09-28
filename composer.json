@@ -1,7 +1,7 @@
 {
   
-  "name": "youjiu/support",
-  "description":"The youjiu Support package.",
+  "name": "uuu9/support",
+  "description":"The uuu9 Support package.",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Youjiu\\Support\\": "src/"
+      "uuu9\\Support\\": "src/"
     }
   },
   "minimum-stability": "dev"
