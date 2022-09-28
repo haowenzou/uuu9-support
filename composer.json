@@ -1,0 +1,25 @@
+{
+  
+  "name": "youjiu/support",
+  "description":"The youjiu Support package.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhw",
+      "email": "980334125@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Youjiu\\Support\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
